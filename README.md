@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Kryštof Ham</h1>
-<h3 align="center">Data analyst | mathematician | frontend developer | linux ethusiast</h3>
+<h3 align="center">Data analyst | mathematician | frontend developer | linux enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krystofham&label=Profile%20views&color=0e75b6&style=flat" alt="krystofham" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **react, sklearn**
 
-- 👨‍💻 All of my projects are available at [www.krystofham.github.io/porfolio](www.krystofham.github.io/porfolio)
+- 👨‍💻 All of my projects are available at [www.krystofham.github.io/portfolio](https://krystofham.github.io/portfolio)
 
 - 📫 How to reach me **krystof.ham@proton.me**
 
