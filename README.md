@@ -43,7 +43,7 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krystofham&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&exclude_repo=prednasky-a-zapisy" alt="krystofham" /></p>
+<p><img align="center" src="https://github-readme-stats.shion.dev/api/top-langs?username=krystofham&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&exclude_repo=prednasky-a-zapisy" alt="krystofham" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krystofham&show_icons=true&theme=dark&locale=en&exclude_repo=prednasky-a-zapisy" alt="krystofham" /></p>
 
