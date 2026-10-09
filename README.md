@@ -43,7 +43,7 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.shion.dev/api/top-langs?username=krystofham&show_icons=true&locale=en&layout=compact&theme=tokyonight&exclude_repo=prednasky-a-zapisy" alt="krystofham" /></p>
+![Top Langs](./profile/top-langs.svg)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.shion.dev/api?username=krystofham&show_icons=true&theme=tokyonight&locale=en&count_private=true" alt="krystofham" /></p>
 
